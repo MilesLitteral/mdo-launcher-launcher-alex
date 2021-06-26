@@ -17,5 +17,8 @@
 - node.js
 - ReactJS
 - Electron
-- [Moon](https://moonjs.org/)?
-- Firebase?
+
+To Be Implemented(* means uncertain)
+- Supabase
+- *[Moon](https://moonjs.org/)?
+- Firebase (Down the line in development perhaps)
