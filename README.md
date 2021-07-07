@@ -17,5 +17,4 @@
 - node.js
 - ReactJS
 - Electron
-- [Moon](https://moonjs.org/)?
-- Firebase?
+- [Supabase](https://app.supabase.io/)
